@@ -1,4 +1,4 @@
-# SistemaBancarioV1-POO-
+# SistemaBancarioPOO
 
 Plataforma de ensino "DIO"
 
